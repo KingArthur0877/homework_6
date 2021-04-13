@@ -24,3 +24,5 @@ https://kingarthur0877.github.io/homework_6/
 
 ## Screenshots
 
+![Screenshot1](./assets/images/weather.png)
+![Screenshot2](./assets/images/weather1.png)
