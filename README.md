@@ -20,3 +20,7 @@ Starting the project from scratch enabled me to go through the code more careful
 
 ## Deployed Link
 
+https://kingarthur0877.github.io/homework_6/
+
+## Screenshots
+
