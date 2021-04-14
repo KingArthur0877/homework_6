@@ -1,4 +1,4 @@
-const apiKey = "096b51f6d82cf2d709ac1ea8e159d2b8";
+const apiKey = "1feb62f30eb5181ca48580a065f6672c";
 
 const fetchWeatherData = async (weatherApiUrl) => {
   try {
